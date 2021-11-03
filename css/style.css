@@ -178,7 +178,7 @@ input {
 }
 button {
 	background-image: -webkit-linear-gradient(left, #403c3a 0%,#403c3a 99%);
-	background-image: linear-gradient(to right, #403c3a 0%,#403c3a 99%);
+	background-image: linear-gradient(to right, #d6ab83 0%,#d6ab83 99%);
 	border: 0;
 	border-radius: 40px;
 	color:  #403c3a;
